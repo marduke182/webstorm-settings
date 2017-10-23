@@ -1,0 +1,20 @@
+<application>
+  <component name="FindSettings">
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="FILE_MASK" value="*.scss" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.less</mask>
+      <mask>*.js</mask>
+      <mask>*.scss</mask>
+    </recentFileMasks>
+  </component>
+</application>
