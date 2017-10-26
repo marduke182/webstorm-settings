@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="log" value="console.log($END$);" description="Inserts console log" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
