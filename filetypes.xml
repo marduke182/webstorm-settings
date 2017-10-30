@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
