@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColor" value="80cbc4" />
     <option name="isMaterialDesign" value="false" />
+    <option name="isMaterialTheme" value="false" />
     <option name="defaultBackground" value="" />
   </component>
 </application>
