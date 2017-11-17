@@ -1,4 +1,6 @@
 <code_scheme name="Default (1)">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="RIGHT_MARGIN" value="100" />
   <JSCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
