@@ -1,0 +1,51 @@
+<templateSet group="ReactJs">
+  <template name="rifc" value="export default function $COMPONENT$() {&#10;  throw new Error('Implement component');&#10;}" description="React Implement Component" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rcls" value="import React, { Component } from 'react';&#10;import PropTypes from 'prop-types';&#10;&#10;class $COMPONENT$ extends Component {&#10;  render() {&#10;    return (&#10;      &lt;div&gt;$END$&lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;$COMPONENT$.propTypes = {};&#10;$COMPONENT$.defaultProps = {};&#10;&#10;export default $COMPONENT$;" description="React Class Component" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rpfc" value="import React from 'react';&#10;import PropTypes from 'prop-types';&#10;&#10;function $COMPONENT$($PARAMETER$) {&#10;  return (&#10;    &lt;div&gt;$END$&lt;/div&gt;&#10;  );&#10;}&#10;&#10;$COMPONENT$.propTypes = {};&#10;$COMPONENT$.defaultProps = {};&#10;&#10;export default $COMPONENT$;" description="React Pure Function Component" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cdm" value="componentDidMount() {&#10;  $END$&#10;}" description="componentDidMount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cdu" value="componentDidUpdate(prevProps, prevState, prevContext) {&#10;  $END$&#10;}" description="componentDidIUpdate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cwm" value="componentWillMount() {&#10;  $END$&#10;}" description="componentWillMount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cwr" value="componentWillReceiveProps(nextProps, nextContext) {&#10;  $END$&#10;}" description="componentWillReceiveProps" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cwu" value="componentWillUpdate(nextProps, nextState, nextContext) {&#10;  $END$&#10;}" description="componentWillUpdate" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cwum" value="componentWillUnmount() {&#10;  $END$&#10;}" description="componentWillUnmount" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
