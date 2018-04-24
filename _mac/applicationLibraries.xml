@@ -8,6 +8,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/supertest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="boom-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
