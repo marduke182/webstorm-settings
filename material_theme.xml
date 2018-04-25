@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.1.7.4" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="isMaterialDesign" value="false" />
     <option name="tabsHeight" value="50" />
   </component>
 </application>
