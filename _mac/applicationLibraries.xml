@@ -20,6 +20,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/redux-mock-store" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/supertest" type="javaScript">
       <CLASSES />
       <SOURCES />
