@@ -3,7 +3,7 @@
     <property name="created">2018-05-11T09:21:59</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.2.0.0</property>
-    <property name="modified">2018-05-14T12:53:54</property>
+    <property name="modified">2018-05-15T16:38:51</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -19,7 +19,6 @@
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="7c4dff" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED" value="626669" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
