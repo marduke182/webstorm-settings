@@ -4,6 +4,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/enzyme-adapter-react-16" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/jest-matchers" type="javaScript">
       <CLASSES />
       <SOURCES />
