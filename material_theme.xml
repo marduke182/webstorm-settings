@@ -1,9 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.3.1" />
+    <option name="version" value="2.4.1.2-2018.1" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="009688" />
     <option name="tabsHeight" value="50" />
     <option name="upperCaseTabs" value="true" />
+    <option name="userId" value="a331d58:1640dd8328b:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
