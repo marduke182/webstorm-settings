@@ -28,14 +28,6 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="@types/react-dom" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/react-test-renderer" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/redux-mock-store" type="javaScript">
       <CLASSES />
       <SOURCES />
