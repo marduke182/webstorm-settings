@@ -1,11 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.8.2" />
-    <option name="selectedTheme" value="SOLARIZED_DARK" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="388e3c" />
+    <option name="accentColor" value="00bcd4" />
     <option name="tabsHeight" value="50" />
     <option name="upperCaseTabs" value="true" />
     <option name="darkTitleBar" value="true" />
