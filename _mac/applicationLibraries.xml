@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/aws-iot-device-sdk" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/cheerio" type="javaScript">
       <CLASSES />
       <SOURCES />
