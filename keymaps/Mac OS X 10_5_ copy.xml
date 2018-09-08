@@ -8,6 +8,10 @@
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift meta alt p" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
@@ -16,8 +20,5 @@
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="shift ctrl meta d" />
-  </action>
-  <action id="Tool_External Tools_Prettier">
-    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
 </keymap>
