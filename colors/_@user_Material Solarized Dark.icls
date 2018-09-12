@@ -4,7 +4,7 @@
     <property name="created">2018-09-08T16:39:14</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-09-10T18:46:51</property>
+    <property name="modified">2018-09-12T06:37:12</property>
     <property name="originalScheme">Material Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -372,7 +372,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="53540" />
+        <option name="FOREGROUND" value="2b36" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
