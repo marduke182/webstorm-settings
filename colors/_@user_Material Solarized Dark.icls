@@ -4,7 +4,7 @@
     <property name="created">2018-09-08T16:39:14</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-09-22T17:27:50</property>
+    <property name="modified">2018-09-21T06:53:48</property>
     <property name="originalScheme">Material Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -16,8 +16,7 @@
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro for Powerline" />
-  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
@@ -372,7 +371,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="53540" />
+        <option name="FOREGROUND" value="292929" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -409,7 +408,7 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="657b83" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -783,6 +782,11 @@
       <value>
         <option name="FOREGROUND" value="586e75" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
