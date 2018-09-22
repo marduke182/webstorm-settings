@@ -4,7 +4,7 @@
     <property name="created">2018-09-08T16:39:14</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-09-12T06:37:12</property>
+    <property name="modified">2018-09-22T17:27:50</property>
     <property name="originalScheme">Material Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -16,7 +16,7 @@
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Meslo LG L for Powerline" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro for Powerline" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
@@ -372,7 +372,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="2b36" />
+        <option name="FOREGROUND" value="53540" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
