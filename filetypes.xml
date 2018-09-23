@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="mdx" type="Markdown" />
+      <mapping pattern=".env.base" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern=".mocks" type="PLAIN_TEXT" />
+      <mapping pattern=".pretierrc" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
+      <mapping ext="default" type="PLAIN_TEXT" />
+      <mapping ext="wotff" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
