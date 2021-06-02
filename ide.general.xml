@@ -13,5 +13,6 @@
     <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="typescript.service.node.arguments" value="--max_old_space_size=4096" />
+    <entry key="ide.balloon.shadow.size" value="0" />
   </component>
 </application>
