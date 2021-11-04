@@ -3,7 +3,7 @@
     <variable name="NAME" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="bfe" value="beforeEach(async () =&gt; {&#10;  $END$&#10;});" description="Inserts beforeEach() block" toReformat="true" toShortenFQNames="true">
+  <template name="bfe" value="beforeEach(() =&gt; {&#10;  $END$&#10;});" description="Inserts beforeEach() block" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
   <template name="it" value="it('should $NAME$', () =&gt; {&#10;  $END$&#10;}); " description="Inserts it() block" toReformat="true" toShortenFQNames="true">
@@ -19,7 +19,7 @@
   <template name="bf" value="before(() =&gt; {&#10;  $END$&#10;});" description="Inserts before() block" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
-  <template name="test" value="test('should $NAME$', async () =&gt; {&#10;  $END$&#10;}); " description="Inser test() block" toReformat="false" toShortenFQNames="true">
+  <template name="test" value="test('should $NAME$', () =&gt; {&#10;  $END$&#10;}); " description="Inser test() block" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
